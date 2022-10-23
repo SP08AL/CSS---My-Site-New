@@ -21,6 +21,7 @@ h2{
 
 p{
   font-family: 'Noto Sans Thai', sans-serif;
+  /* margin-top: 0px; */
 }
 
 /* .example-div {
@@ -61,7 +62,7 @@ p{
   width: 25%;
 }
 .skill-row {
-  width:40%;
+  width:48%;
   margin: 100px auto;
   text-align: left;
 }
